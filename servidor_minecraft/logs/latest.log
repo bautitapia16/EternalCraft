@@ -43,3 +43,12 @@
 [06Jul2025 17:08:36.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUACO344 has made the advancement [Stone Age]
 [06Jul2025 17:10:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUACO344 has made the advancement [Getting an Upgrade]
 [06Jul2025 17:11:10.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUACO344 has made the advancement [Sweet Dreams]
+[06Jul2025 17:18:08.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUACO344 has made the advancement [Acquire Hardware]
+[06Jul2025 17:24:58.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUACO344 has made the advancement [Monster Hunter]
+[06Jul2025 17:25:29.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 has made the advancement [Isn't It Iron Pick]
+[06Jul2025 17:27:03.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=79, z=-888} BlockPos{x=13, y=79, z=-888}
+[06Jul2025 17:31:01.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bautitapia15 lost connection: Timed out
+[06Jul2025 17:31:01.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 left the game
+[06Jul2025 17:31:01.827] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jul2025 17:32:02.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUACO344 lost connection: Disconnected
+[06Jul2025 17:32:02.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUACO344 left the game

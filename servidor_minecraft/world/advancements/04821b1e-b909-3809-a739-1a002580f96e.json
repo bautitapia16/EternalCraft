@@ -7,6 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-07-06 17:16:20 +0000",
+      "minecraft:savanna": "2025-07-06 17:10:39 +0000",
       "minecraft:plains": "2025-07-05 20:48:46 +0000"
     },
     "done": false
@@ -313,12 +315,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-07-06 17:29:58 +0000",
       "chicken": "2025-07-05 20:54:14 +0000",
       "bread": "2025-07-05 21:11:12 +0000",
       "rotten_flesh": "2025-07-06 14:24:46 +0000",
       "cooked_mutton": "2025-07-05 21:41:03 +0000",
       "cooked_beef": "2025-07-06 00:04:04 +0000",
       "beef": "2025-07-05 20:55:48 +0000",
+      "melon_slice": "2025-07-06 17:21:52 +0000",
       "porkchop": "2025-07-05 23:57:21 +0000"
     },
     "done": false
@@ -835,15 +839,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-06 17:14:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-07-06 17:03:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-06 17:14:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-07-06 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-06 17:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-06 17:14:17 +0000"
     },
     "done": true
   },
@@ -856,6 +884,18 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-07-06 17:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-06 17:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-06 17:15:17 +0000"
     },
     "done": true
   },

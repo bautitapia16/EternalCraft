@@ -53,3 +53,4 @@
 [06Jul2025 17:49:03.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuu> dale tapia
 [06Jul2025 17:52:05.203] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/1659, l='ServerLevel[world]', x=208.33, y=64.00, z=-365.70] died, message: 'Weaponsmith was slain by Zombie'
 [06Jul2025 17:52:30.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was slain by Zombie
+[06Jul2025 18:01:19.101] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1750, l='ServerLevel[world]', x=177.80, y=73.00, z=-405.50] died, message: 'Villager was shot by Pillager'

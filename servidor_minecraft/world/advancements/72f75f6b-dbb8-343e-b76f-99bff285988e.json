@@ -590,6 +590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 17:54:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-06 17:48:34 +0000"
@@ -629,6 +635,12 @@
   "minecraft:recipes/tools/bundle": {
     "criteria": {
       "has_string": "2025-07-06 17:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-06 17:54:09 +0000"
     },
     "done": true
   },

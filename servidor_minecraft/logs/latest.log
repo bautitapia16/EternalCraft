@@ -48,3 +48,8 @@
 [06Jul2025 14:57:37.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bautitapia15[/127.205.163.110:42081] logged in with entity id 3219 at (54.41428544956089, 90.0, 25.81025334414879)
 [06Jul2025 14:57:37.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 joined the game
 [06Jul2025 15:00:24.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was slain by Iron Golem
+[06Jul2025 15:11:53.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bautitapia15 lost connection: Disconnected
+[06Jul2025 15:11:53.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 left the game
+[06Jul2025 15:12:53.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[06Jul2025 15:20:59.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuu[/127.224.4.223:54493] logged in with entity id 6117 at (7.5, 81.0, 4.5)
+[06Jul2025 15:20:59.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu joined the game

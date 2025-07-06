@@ -767,3 +767,15 @@ java.io.IOException: Maximum number of bytes read: 8192
 [06Jul2025 15:05:58.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jul2025 15:10:58.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2025 15:10:58.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 15:11:53.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bautitapia15 lost connection: Disconnected
+[06Jul2025 15:11:53.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 left the game
+[06Jul2025 15:12:53.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[06Jul2025 15:12:53.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 15:12:53.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 15:20:56.741] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[06Jul2025 15:20:56.741] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[06Jul2025 15:20:56.741] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[06Jul2025 15:20:56.741] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[06Jul2025 15:20:56.741] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@16b8c021 into net.minecraft.network.Connection@5e48459b
+[06Jul2025 15:20:59.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuu[/127.224.4.223:54493] logged in with entity id 6117 at (7.5, 81.0, 4.5)
+[06Jul2025 15:20:59.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu joined the game

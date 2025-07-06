@@ -749,3 +749,14 @@ java.io.IOException: Maximum number of bytes read: 8192
 [06Jul2025 00:11:51.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
 [06Jul2025 00:11:51.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2025 00:11:51.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:33:23.371] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[06Jul2025 00:33:23.371] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[06Jul2025 00:33:23.371] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[06Jul2025 00:33:23.372] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[06Jul2025 00:33:23.372] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@9dfb91d into net.minecraft.network.Connection@47fed71e
+[06Jul2025 00:33:24.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bautitapia15[/127.205.163.110:35395] logged in with entity id 4078 at (46.92500001192093, 83.0, 13.582066836547545)
+[06Jul2025 00:33:24.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 joined the game
+[06Jul2025 00:38:24.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:38:24.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:43:24.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:43:24.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

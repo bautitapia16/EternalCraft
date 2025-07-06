@@ -824,3 +824,24 @@ java.io.IOException: Maximum number of bytes read: 8192
 [06Jul2025 18:33:12.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuu> veni
 [06Jul2025 18:33:33.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bautitapia15> 104 de de llero
 [06Jul2025 18:33:49.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuu> ala
+[06Jul2025 18:34:24.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bautitapia15> el dicord
+[06Jul2025 18:34:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuu> no puedo
+[06Jul2025 18:34:56.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bautitapia15> por que
+[06Jul2025 18:35:07.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu has made the advancement [Suit Up]
+[06Jul2025 18:35:27.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuu> no puedo
+[06Jul2025 18:35:37.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bautitapia15> por que
+[06Jul2025 18:36:00.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuu> xq voy a hacer ruido
+[06Jul2025 18:36:35.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 has made the advancement [Best Friends Forever]
+[06Jul2025 18:36:51.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 18:36:51.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 18:41:51.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 18:41:51.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 18:46:36.653] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30773, l='ServerLevel[world]', x=587.69, y=79.00, z=-757.36] died, message: 'Villager was slain by Zombie'
+[06Jul2025 18:46:51.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 18:46:51.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 18:49:09.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was blown up by Creeper
+[06Jul2025 18:50:26.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was slain by Spider
+[06Jul2025 18:51:05.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34376, l='ServerLevel[world]', x=600.21, y=83.00, z=-819.24] died, message: 'Villager was slain by Zombie'
+[06Jul2025 18:51:17.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34520, l='ServerLevel[world]', x=608.30, y=82.00, z=-738.12] died, message: 'Villager was slain by Zombie'
+[06Jul2025 18:51:51.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 18:51:51.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

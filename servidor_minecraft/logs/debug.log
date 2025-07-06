@@ -856,3 +856,8 @@ java.io.IOException: Maximum number of bytes read: 8192
 [06Jul2025 19:11:15.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 has made the advancement [Suit Up]
 [06Jul2025 19:11:51.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2025 19:11:51.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 19:16:51.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 19:16:51.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 19:21:51.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 19:21:51.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 19:24:19.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was slain by Cave Spider

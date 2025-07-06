@@ -316,7 +316,8 @@
       "chicken": "2025-07-05 20:54:14 +0000",
       "bread": "2025-07-05 21:11:12 +0000",
       "cooked_mutton": "2025-07-05 21:41:03 +0000",
-      "beef": "2025-07-05 20:55:48 +0000"
+      "beef": "2025-07-05 20:55:48 +0000",
+      "porkchop": "2025-07-05 23:57:21 +0000"
     },
     "done": false
   },
@@ -533,6 +534,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-05 21:46:58 +0000",
+      "minecraft:spider": "2025-07-05 23:04:14 +0000",
       "minecraft:zombie": "2025-07-05 21:58:21 +0000"
     },
     "done": false

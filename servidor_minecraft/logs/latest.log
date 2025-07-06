@@ -1,61 +1,45 @@
-[06Jul2025 14:40:48.771] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[06Jul2025 14:40:48.774] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04
-[06Jul2025 14:40:48.774] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[06Jul2025 14:40:48.882] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[06Jul2025 14:40:48.996] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/EternalCraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[06Jul2025 14:40:49.189] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[06Jul2025 14:40:50.089] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[06Jul2025 14:40:54.924] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 54.1.0, for MC 1.21.4 with MCP 20241203.143248
-[06Jul2025 14:40:54.925] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v54.1.0 Initialized
-[06Jul2025 14:40:54.945] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[06Jul2025 14:40:55.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[06Jul2025 14:40:55.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 54.1.0 Target: null
-[06Jul2025 14:40:56.294] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06Jul2025 14:40:58.288] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1370 recipes
-[06Jul2025 14:40:58.307] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1481 advancements
-[06Jul2025 14:40:58.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.4
-[06Jul2025 14:40:58.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[06Jul2025 14:40:58.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[06Jul2025 14:40:58.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[06Jul2025 14:40:58.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[06Jul2025 14:40:58.589] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[06Jul2025 14:40:58.632] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06Jul2025 14:40:58.632] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[06Jul2025 14:40:58.633] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06Jul2025 14:40:58.633] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[06Jul2025 14:40:58.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[06Jul2025 14:40:59.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[06Jul2025 14:41:01.285] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 14:41:01.287] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 14:41:01.287] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 14:41:01.287] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 14:41:01.287] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jul2025 14:41:01.580] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2568 ms
-[06Jul2025 14:41:01.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.937s)! For help, type "help"
-[06Jul2025 14:41:01.593] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[06Jul2025 14:41:30.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bautitapia15[/127.205.163.110:39157] logged in with entity id 52 at (48.78562788228597, 83.9375, 33.648389806175345)
-[06Jul2025 14:41:30.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 joined the game
-[06Jul2025 14:46:10.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was slain by Zombie
-[06Jul2025 14:47:10.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was slain by Iron Golem
-[06Jul2025 14:49:12.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was shot by Skeleton
-[06Jul2025 14:50:41.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bautitapia15 lost connection: Disconnected
-[06Jul2025 14:50:41.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 left the game
-[06Jul2025 14:51:41.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[06Jul2025 14:55:58.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bautitapia15[/127.205.163.110:49531] logged in with entity id 2873 at (36.19348990018301, 82.0, 28.954309012068887)
-[06Jul2025 14:55:58.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 joined the game
-[06Jul2025 14:57:32.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bautitapia15 lost connection: Disconnected
-[06Jul2025 14:57:32.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 left the game
-[06Jul2025 14:57:37.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bautitapia15[/127.205.163.110:42081] logged in with entity id 3219 at (54.41428544956089, 90.0, 25.81025334414879)
-[06Jul2025 14:57:37.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 joined the game
-[06Jul2025 15:00:24.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was slain by Iron Golem
-[06Jul2025 15:11:53.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bautitapia15 lost connection: Disconnected
-[06Jul2025 15:11:53.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 left the game
-[06Jul2025 15:12:53.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
-[06Jul2025 15:20:59.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuu[/127.224.4.223:54493] logged in with entity id 6117 at (7.5, 81.0, 4.5)
-[06Jul2025 15:20:59.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu joined the game
-[06Jul2025 15:23:40.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu was shot by Skeleton
-[06Jul2025 15:26:22.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu has made the advancement [Sweet Dreams]
-[06Jul2025 15:26:46.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu has made the advancement [Monster Hunter]
-[06Jul2025 15:28:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu has made the advancement [A Seedy Place]
-[06Jul2025 15:29:50.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu has made the advancement [Stone Age]
-[06Jul2025 15:30:06.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu has made the advancement [Getting an Upgrade]
+[06Jul2025 17:02:38.696] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[06Jul2025 17:02:38.699] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04
+[06Jul2025 17:02:38.699] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[06Jul2025 17:02:38.898] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[06Jul2025 17:02:39.205] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/EternalCraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[06Jul2025 17:02:39.436] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[06Jul2025 17:02:40.264] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[06Jul2025 17:02:45.738] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 54.1.0, for MC 1.21.4 with MCP 20241203.143248
+[06Jul2025 17:02:45.738] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v54.1.0 Initialized
+[06Jul2025 17:02:45.768] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[06Jul2025 17:02:46.141] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Jul2025 17:02:46.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 54.1.0 Target: null
+[06Jul2025 17:02:47.058] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06Jul2025 17:02:49.378] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1370 recipes
+[06Jul2025 17:02:49.397] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1481 advancements
+[06Jul2025 17:02:49.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.4
+[06Jul2025 17:02:49.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Jul2025 17:02:49.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Jul2025 17:02:49.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Jul2025 17:02:49.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Jul2025 17:02:49.749] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Jul2025 17:02:49.803] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Jul2025 17:02:49.803] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Jul2025 17:02:49.803] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Jul2025 17:02:49.803] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Jul2025 17:02:49.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Jul2025 17:02:50.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Jul2025 17:02:52.703] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2025 17:02:52.704] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2025 17:02:52.705] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2025 17:02:52.705] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2025 17:02:52.706] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2025 17:02:52.757] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jul2025 17:02:52.954] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2698 ms
+[06Jul2025 17:02:52.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.140s)! For help, type "help"
+[06Jul2025 17:02:52.966] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Jul2025 17:02:59.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bautitapia15[/127.205.163.110:41061] logged in with entity id 11 at (52.90708768115615, 83.0, 21.755597896402048)
+[06Jul2025 17:02:59.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 joined the game
+[06Jul2025 17:02:59.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUACO344[/127.186.85.228:44071] logged in with entity id 12 at (2.5, 82.0, -7.5)
+[06Jul2025 17:02:59.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUACO344 joined the game
+[06Jul2025 17:04:08.821] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/597, l='ServerLevel[world]', x=256.08, y=64.00, z=-173.45]
+[06Jul2025 17:05:47.219] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/23, l='ServerLevel[world]', x=98.76, y=33.00, z=-18.19] died, message: 'Nitwit hit the ground too hard while trying to escape JUACO344'
+[06Jul2025 17:08:36.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUACO344 has made the advancement [Stone Age]
+[06Jul2025 17:10:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUACO344 has made the advancement [Getting an Upgrade]
+[06Jul2025 17:11:10.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUACO344 has made the advancement [Sweet Dreams]

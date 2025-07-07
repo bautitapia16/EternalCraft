@@ -752,3 +752,19 @@ java.io.IOException: Maximum number of bytes read: 8192
 [07Jul2025 16:10:54.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
 [07Jul2025 16:10:54.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jul2025 16:10:54.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 16:22:03.856] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[07Jul2025 16:22:03.857] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[07Jul2025 16:22:03.857] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[07Jul2025 16:22:03.857] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[07Jul2025 16:22:03.857] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@55e037c4 into net.minecraft.network.Connection@d9a40ce
+[07Jul2025 16:22:08.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuu[/127.255.192.206:51907] logged in with entity id 986 at (-83.30000001192093, 13.0, -466.69999998807907)
+[07Jul2025 16:22:08.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu joined the game
+[07Jul2025 16:23:38.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuu lost connection: Timed out
+[07Jul2025 16:23:38.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu left the game
+[07Jul2025 16:23:54.714] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[07Jul2025 16:23:54.714] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[07Jul2025 16:23:54.714] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[07Jul2025 16:23:54.714] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[07Jul2025 16:23:54.715] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@502ebe04 into net.minecraft.network.Connection@152c3a65
+[07Jul2025 16:23:56.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuu[/127.255.192.206:50461] logged in with entity id 1347 at (-83.62807626959548, 14.0, -465.37278202541137)
+[07Jul2025 16:23:56.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu joined the game

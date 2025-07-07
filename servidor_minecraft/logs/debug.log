@@ -768,3 +768,14 @@ java.io.IOException: Maximum number of bytes read: 8192
 [07Jul2025 16:23:54.715] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@502ebe04 into net.minecraft.network.Connection@152c3a65
 [07Jul2025 16:23:56.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuu[/127.255.192.206:50461] logged in with entity id 1347 at (-83.62807626959548, 14.0, -465.37278202541137)
 [07Jul2025 16:23:56.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu joined the game
+[07Jul2025 16:27:08.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 16:27:08.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 16:32:08.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 16:32:08.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 16:33:41.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuu lost connection: Timed out
+[07Jul2025 16:33:41.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu left the game
+[07Jul2025 16:34:10.470] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[07Jul2025 16:34:10.471] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[07Jul2025 16:34:10.471] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[07Jul2025 16:34:10.471] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[07Jul2025 16:34:10.471] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@5b5ab22c into net.minecraft.network.Connection@6badf249

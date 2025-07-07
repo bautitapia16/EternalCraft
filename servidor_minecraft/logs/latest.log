@@ -52,3 +52,5 @@
 [07Jul2025 16:23:38.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu left the game
 [07Jul2025 16:23:56.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuu[/127.255.192.206:50461] logged in with entity id 1347 at (-83.62807626959548, 14.0, -465.37278202541137)
 [07Jul2025 16:23:56.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu joined the game
+[07Jul2025 16:33:41.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuu lost connection: Timed out
+[07Jul2025 16:33:41.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu left the game

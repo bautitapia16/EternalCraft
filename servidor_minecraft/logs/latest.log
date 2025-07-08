@@ -40,3 +40,15 @@
 [08Jul2025 14:33:55.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
 [08Jul2025 14:35:22.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bautitapia15[/127.211.96.183:56805] logged in with entity id 12 at (-586.4555273758214, 38.0, -313.8066585560247)
 [08Jul2025 14:35:22.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 joined the game
+[08Jul2025 14:51:46.400] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bautitapia15 lost connection: Disconnected
+[08Jul2025 14:51:46.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 left the game
+[08Jul2025 14:51:52.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jul2025 14:51:52.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jul2025 14:51:52.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jul2025 14:51:52.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jul2025 14:51:52.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jul2025 14:51:52.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jul2025 14:51:52.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jul2025 14:51:52.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jul2025 14:51:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jul2025 14:51:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

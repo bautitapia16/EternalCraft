@@ -42,3 +42,7 @@
 [08Jul2025 12:47:18.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was doomed to fall by Zombie
 [08Jul2025 12:53:46.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 has made the advancement [Hot Stuff]
 [08Jul2025 12:55:23.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 fell from a high place
+[08Jul2025 13:18:58.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bautitapia15 lost connection: Timed out
+[08Jul2025 13:18:58.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 left the game
+[08Jul2025 13:18:58.594] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jul2025 13:19:58.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing

@@ -757,3 +757,9 @@ java.io.IOException: Maximum number of bytes read: 8192
 [08Jul2025 13:10:41.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jul2025 13:15:41.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 13:15:41.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 13:18:58.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bautitapia15 lost connection: Timed out
+[08Jul2025 13:18:58.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 left the game
+[08Jul2025 13:18:58.594] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jul2025 13:19:58.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[08Jul2025 13:19:58.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 13:19:58.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

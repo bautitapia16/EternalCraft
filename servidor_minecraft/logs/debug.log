@@ -755,3 +755,9 @@ java.io.IOException: Maximum number of bytes read: 8192
 [08Jul2025 01:18:15.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 has made the advancement [Ice Bucket Challenge]
 [08Jul2025 01:23:10.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 01:23:10.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:26:55.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 fell from a high place
+[08Jul2025 01:28:10.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:28:10.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:31:11.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was slain by Zombie
+[08Jul2025 01:33:10.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:33:10.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

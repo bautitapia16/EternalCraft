@@ -1690,5 +1690,17 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-08 12:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-08 12:54:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }

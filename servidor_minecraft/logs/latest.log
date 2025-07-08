@@ -39,3 +39,6 @@
 [08Jul2025 12:31:18.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was slain by Zombie
 [08Jul2025 12:35:27.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Armadillo['Armadillo'/4548, l='ServerLevel[world]', x=-777.08, y=72.00, z=-513.08]
 [08Jul2025 12:37:32.838] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/5094, l='ServerLevel[world]', x=-864.07, y=62.00, z=-215.47]
+[08Jul2025 12:47:18.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was doomed to fall by Zombie
+[08Jul2025 12:53:46.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 has made the advancement [Hot Stuff]
+[08Jul2025 12:55:23.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 fell from a high place

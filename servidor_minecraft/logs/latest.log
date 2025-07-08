@@ -38,3 +38,4 @@
 [08Jul2025 00:33:10.067] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [08Jul2025 00:33:18.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bautitapia15[/127.205.163.110:46017] logged in with entity id 10 at (811.6252016518022, 72.0, -340.6703005344014)
 [08Jul2025 00:33:18.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 joined the game
+[08Jul2025 00:52:07.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 hit the ground too hard

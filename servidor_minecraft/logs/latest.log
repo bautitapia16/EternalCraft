@@ -116,3 +116,8 @@
 [08Jul2025 02:45:05.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 fell from a high place
 [08Jul2025 02:45:09.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bautitapia15 lost connection: Disconnected
 [08Jul2025 02:45:09.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 left the game
+[08Jul2025 02:50:28.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuuu lost connection: Disconnected
+[08Jul2025 02:50:28.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu left the game
+[08Jul2025 02:50:28.522] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jul2025 02:50:30.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuuu[/127.224.4.223:56093] logged in with entity id 25587 at (-665.6726343132166, 29.0, -340.7001456019844)
+[08Jul2025 02:50:30.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuuu joined the game

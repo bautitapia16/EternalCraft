@@ -840,3 +840,15 @@ java.io.IOException: Maximum number of bytes read: 8192
 [08Jul2025 02:34:53.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuu> donde fuiste
 [08Jul2025 02:35:27.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 02:35:27.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 02:39:45.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 was doomed to fall by Zombie
+[08Jul2025 02:40:27.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 02:40:27.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 02:41:03.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuu> volve
+[08Jul2025 02:41:03.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bautitapia15> vusca mis cosas
+[08Jul2025 02:41:11.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuu> no
+[08Jul2025 02:43:13.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuuu> vení ya agarro tus cosas
+[08Jul2025 02:45:05.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 fell from a high place
+[08Jul2025 02:45:09.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bautitapia15 lost connection: Disconnected
+[08Jul2025 02:45:09.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautitapia15 left the game
+[08Jul2025 02:45:27.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 02:45:27.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

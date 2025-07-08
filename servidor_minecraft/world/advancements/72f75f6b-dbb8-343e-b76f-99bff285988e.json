@@ -192,6 +192,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-07-08 02:57:35 +0000",
       "minecraft:skeleton": "2025-07-06 15:26:46 +0000",
       "minecraft:enderman": "2025-07-06 17:50:54 +0000",
       "minecraft:spider": "2025-07-06 17:48:33 +0000",
@@ -1780,6 +1781,24 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-07-08 02:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-08 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-08 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-08 03:06:08 +0000"
     },
     "done": true
   },

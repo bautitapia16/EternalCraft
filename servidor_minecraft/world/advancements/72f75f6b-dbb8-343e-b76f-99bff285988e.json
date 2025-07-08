@@ -333,6 +333,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-06 17:44:22 +0000",
       "bread": "2025-07-06 18:09:12 +0000",
+      "cooked_mutton": "2025-07-08 02:04:05 +0000",
       "potato": "2025-07-06 15:35:04 +0000",
       "cooked_beef": "2025-07-06 15:28:20 +0000",
       "beetroot": "2025-07-06 15:29:14 +0000",
@@ -1675,6 +1676,42 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-06 20:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-08 02:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-08 02:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-08 02:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-08 02:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-08 02:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-08 02:00:48 +0000"
     },
     "done": true
   },
